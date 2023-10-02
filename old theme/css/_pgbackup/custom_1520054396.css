@@ -1,0 +1,8 @@
+.slider_height {
+    height: 60vh;
+}
+
+.carousel_slide_center_img {
+    background-position: center;
+    background-size: contain;
+}
